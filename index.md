@@ -1,3 +1,8 @@
+# Lukas' First CS193 Homework
+
+- The slides were pretty funny
+- Good information relating to my major
+- Cool people and lecturers in class
 ## Lukas' First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
